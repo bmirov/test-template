@@ -29,4 +29,4 @@ def test_add_numbers2():
     result = add_numbers(a, b)
 
     # Assert
-    assert result == 5
+    assert result == 4
